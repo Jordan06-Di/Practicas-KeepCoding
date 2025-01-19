@@ -4,8 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fX-eOHofn5ZqAN3v3y8v-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-4" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="130" width="26" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-7" value="&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 11px;&quot;&gt;ELASTIC&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 11px;&quot;&gt;CLOUD&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="30" width="85" height="53.55" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-9" value="ROUTER&lt;div&gt;IP 192.168.0.17&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="300" width="26" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
