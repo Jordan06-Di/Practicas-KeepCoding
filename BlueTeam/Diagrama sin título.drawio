@@ -16,6 +16,9 @@
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="300" width="26" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-13" value="WAN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
