@@ -7,9 +7,6 @@
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-4" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="130" width="26" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fX-eOHofn5ZqAN3v3y8v-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fX-eOHofn5ZqAN3v3y8v-7" target="fX-eOHofn5ZqAN3v3y8v-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-7" value="&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 11px;&quot;&gt;&lt;b&gt;ELASTIC&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204); font-size: 11px;&quot;&gt;&lt;b&gt;CLOUD&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="30" width="85" height="53.55" as="geometry" />
         </mxCell>
@@ -76,14 +73,14 @@
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-35" value="SURICATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="595" y="600" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fX-eOHofn5ZqAN3v3y8v-36" value="192.168.100.100/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="131.52" y="520" width="130" height="40" as="geometry" />
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-36" value="192.168.100.1/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="136.52" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fX-eOHofn5ZqAN3v3y8v-37" value="192.168.100.100/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="411.9" y="560" width="130" height="40" as="geometry" />
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-37" value="192.168.200.1/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="416.9" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fX-eOHofn5ZqAN3v3y8v-38" value="192.168.100.100/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="570" y="521" width="130" height="40" as="geometry" />
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-38" value="192.168.250.1/24&lt;div&gt;RANGO 100/150&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="575" y="521" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
