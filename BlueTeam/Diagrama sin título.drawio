@@ -61,6 +61,12 @@
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-29" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" vertex="1" parent="1">
           <mxGeometry x="68.48" y="592" width="63.04" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-30" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="1">
+          <mxGeometry x="352.22" y="650" width="77.78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-31" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="1">
+          <mxGeometry x="671.11" y="592" width="77.78" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
