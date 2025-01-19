@@ -49,6 +49,15 @@
         <mxCell id="fX-eOHofn5ZqAN3v3y8v-24" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="422.5" y="530" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="521" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="521" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fX-eOHofn5ZqAN3v3y8v-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="373" y="585" width="20" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
