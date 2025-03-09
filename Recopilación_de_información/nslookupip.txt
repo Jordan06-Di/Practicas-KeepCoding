@@ -1,0 +1,13 @@
+Server:		190.157.8.101
+Address:	190.157.8.101#53
+
+Non-authoritative answer:
+Name:	mercadolibre.com
+Address: 143.204.23.119
+Name:	mercadolibre.com
+Address: 143.204.23.45
+Name:	mercadolibre.com
+Address: 143.204.23.49
+Name:	mercadolibre.com
+Address: 143.204.23.68
+
