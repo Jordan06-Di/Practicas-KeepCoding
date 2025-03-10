@@ -1,0 +1,458 @@
+2025/03/09 19:54:46 INFO result 🤖 target=http://api.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:54:46 INFO result 🤖 target=http://api.mercadolibre.com:80 status-code=404 title="" have-screenshot=true
+2025/03/09 19:54:47 INFO result 🤖 target=https://api.mercadolibre.com:443 status-code=404 title="" have-screenshot=true
+2025/03/09 19:54:47 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ar:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:54:47 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ar:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:54:49 INFO result 🤖 target=https://buyingflow.mercadolibre.com.ar:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:54:53 INFO result 🤖 target=http://analytics.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:54:54 INFO result 🤖 target=http://analytics.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:54:55 INFO result 🤖 target=https://analytics.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:55:02 INFO result 🤖 target=http://classifieds-mobile.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:55:02 INFO result 🤖 target=http://classifieds-mobile.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:55:07 INFO result 🤖 target=https://classifieds-mobile.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:55:09 INFO result 🤖 target=http://data.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:55:10 INFO result 🤖 target=http://data.mercadolibre.com:80 status-code=403 title="403 Forbidden" have-screenshot=true
+2025/03/09 19:55:16 INFO result 🤖 target=https://data.mercadolibre.com:443 status-code=403 title="403 Forbidden" have-screenshot=true
+2025/03/09 19:55:17 INFO result 🤖 target=http://auth.mercadolibre.com.ec:443 status-code=404 title="" have-screenshot=true
+2025/03/09 19:55:18 INFO result 🤖 target=http://auth.mercadolibre.com.ec:80 status-code=404 title="" have-screenshot=true
+2025/03/09 19:55:24 INFO result 🤖 target=https://auth.mercadolibre.com.ec:443 status-code=404 title="" have-screenshot=true
+2025/03/09 19:55:25 INFO result 🤖 target=http://cbt.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:55:36 INFO result 🤖 target=http://cbt.mercadolibre.com:80 status-code=200 title="Mercado Libre Global Selling | Sell in Latin America" have-screenshot=true
+2025/03/09 19:55:42 INFO result 🤖 target=https://cbt.mercadolibre.com:443 status-code=200 title="Mercado Libre Global Selling | Sell in Latin America" have-screenshot=true
+2025/03/09 19:55:43 INFO result 🤖 target=http://casa-villa.mercadolibre.com.ec:80 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:55:45 INFO result 🤖 target=http://casa-villa.mercadolibre.com.ec:443 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:55:51 INFO result 🤖 target=https://casa-villa.mercadolibre.com.ec:443 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:55:51 INFO result 🤖 target=http://buyingflow.mercadolibre.com.mx:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:55:52 INFO result 🤖 target=http://buyingflow.mercadolibre.com.mx:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:55:57 INFO result 🤖 target=https://buyingflow.mercadolibre.com.mx:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:55:59 INFO result 🤖 target=http://auth-identity.mercadolibre.com.ec:80 status-code=200 title="Mercado Libre Ecuador - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:56:00 INFO result 🤖 target=http://applications.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:56:03 INFO result 🤖 target=http://applications.mercadolibre.com:80 status-code=200 title=Developers have-screenshot=true
+2025/03/09 19:56:06 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ve:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:06 INFO result 🤖 target=http://auth-identity.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre Ecuador - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:56:06 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ve:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:09 INFO result 🤖 target=https://applications.mercadolibre.com:443 status-code=200 title=Developers have-screenshot=true
+2025/03/09 19:56:10 INFO result 🤖 target=https://buyingflow.mercadolibre.com.ve:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:11 INFO result 🤖 target=https://auth-identity.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre Ecuador - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:56:12 INFO result 🤖 target=http://csp.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:56:12 INFO result 🤖 target=http://csp.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:56:15 INFO result 🤖 target=http://buyingflow.mercadolibre.com.pa:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:15 INFO result 🤖 target=https://csp.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:56:16 INFO result 🤖 target=http://buyingflow.mercadolibre.com.pa:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:18 INFO result 🤖 target=https://buyingflow.mercadolibre.com.pa:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:18 INFO result 🤖 target=http://answers.mercadolibre.com:80 status-code=200 title="Welcome to tengine!" have-screenshot=true
+2025/03/09 19:56:19 INFO result 🤖 target=http://answers.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:56:21 INFO result 🤖 target=https://answers.mercadolibre.com:443 status-code=200 title="Welcome to tengine!" have-screenshot=true
+2025/03/09 19:56:29 INFO result 🤖 target=http://buyingflow.mercadolibre.com.co:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:30 INFO result 🤖 target=http://buyingflow.mercadolibre.com.co:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:56:33 INFO result 🤖 target=https://buyingflow.mercadolibre.com.co:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:14 INFO result 🤖 target=http://camioneta.mercadolibre.com.ec:443 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:16 INFO result 🤖 target=https://camioneta.mercadolibre.com.ec:443 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:19 INFO result 🤖 target=http://camioneta.mercadolibre.com.ec:80 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=false
+2025/03/09 19:57:20 INFO result 🤖 target=http://auth.mercadolibre.com:80 status-code=404 title="" have-screenshot=true
+2025/03/09 19:57:21 INFO result 🤖 target=http://auth.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:57:23 INFO result 🤖 target=http://auto.mercadolibre.com.ec:80 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:25 INFO result 🤖 target=http://auto.mercadolibre.com.ec:443 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:25 INFO result 🤖 target=https://auto.mercadolibre.com.ec:443 status-code=200 title="Autos, Motos y Otros | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:27 INFO result 🤖 target=https://auth.mercadolibre.com:443 status-code=404 title="" have-screenshot=true
+2025/03/09 19:57:28 INFO result 🤖 target=http://buyingflow.mercadolibre.com.pe:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:30 INFO result 🤖 target=https://buyingflow.mercadolibre.com.pe:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:31 INFO result 🤖 target=http://buyingflow.mercadolibre.com.uy:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:32 INFO result 🤖 target=http://buyingflow.mercadolibre.com.uy:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:33 INFO result 🤖 target=https://buyingflow.mercadolibre.com.uy:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:34 INFO result 🤖 target=http://buyingflow.mercadolibre.com.do:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:34 INFO result 🤖 target=http://buyingflow.mercadolibre.com.do:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:37 INFO result 🤖 target=https://buyingflow.mercadolibre.com.do:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 19:57:54 INFO result 🤖 target=http://analytics.mercadolibre.com.ec:80 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:57:55 INFO result 🤖 target=http://analytics.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:57:58 INFO result 🤖 target=http://arte-antiguedades.mercadolibre.com.ec:80 status-code=200 title="Arte y Antigüedades | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:57:58 INFO result 🤖 target=http://arte-antiguedades.mercadolibre.com.ec:443 status-code=200 title="Arte y Antigüedades | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:58:00 INFO result 🤖 target=https://analytics.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:58:00 INFO result 🤖 target=http://deals.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:58:01 INFO result 🤖 target=http://deals.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:58:04 INFO result 🤖 target=https://arte-antiguedades.mercadolibre.com.ec:443 status-code=200 title="Arte y Antigüedades | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:58:06 INFO result 🤖 target=https://deals.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 19:58:23 INFO result 🤖 target=http://applications.mercadolibre.com.ec:443 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 19:58:24 INFO result 🤖 target=https://applications.mercadolibre.com.ec:443 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 19:58:25 INFO result 🤖 target=http://applications.mercadolibre.com.ec:80 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 19:58:27 INFO result 🤖 target=http://compra.mercadolibre.com.ec:80 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:58:29 INFO result 🤖 target=http://compra.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:58:29 INFO result 🤖 target=https://compra.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:58:31 INFO result 🤖 target=http://articulo.mercadolibre.com.ec:80 status-code=200 title="Mercado Libre - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:58:33 INFO result 🤖 target=http://articulo.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:58:36 INFO result 🤖 target=https://articulo.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 19:58:54 INFO result 🤖 target=http://apps.mercadolibre.com.ec:80 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:58:54 INFO result 🤖 target=http://apps.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:59:02 INFO result 🤖 target=https://apps.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:59:13 INFO result 🤖 target=http://addresses.mercadolibre.com.ec:80 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:59:13 INFO result 🤖 target=http://addresses.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:59:16 INFO result 🤖 target=http://casas.mercadolibre.com.ec:80 status-code=200 title="Casas | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:17 INFO result 🤖 target=http://casas.mercadolibre.com.ec:443 status-code=200 title="Casas | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:17 INFO result 🤖 target=https://casas.mercadolibre.com.ec:443 status-code=200 title="Casas | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:19 INFO result 🤖 target=http://events.mercadolibre.com:80 status-code=404 title="404 Not Found" have-screenshot=true
+2025/03/09 19:59:19 INFO result 🤖 target=http://events.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:59:22 INFO result 🤖 target=https://addresses.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 19:59:22 INFO result 🤖 target=https://events.mercadolibre.com:443 status-code=404 title="404 Not Found" have-screenshot=true
+2025/03/09 19:59:23 INFO result 🤖 target=http://dejavu.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 19:59:23 INFO result 🤖 target=http://dejavu.mercadolibre.com:80 status-code=200 title="dejavu.mercadolibre.com (1×1)" have-screenshot=true
+2025/03/09 19:59:25 INFO result 🤖 target=https://dejavu.mercadolibre.com:443 status-code=200 title="dejavu.mercadolibre.com (1×1)" have-screenshot=true
+2025/03/09 19:59:31 INFO result 🤖 target=http://dejavu.mercadolibre.com.ec:80 status-code=200 title="dejavu.mercadolibre.com.ec (1×1)" have-screenshot=true
+2025/03/09 19:59:33 INFO result 🤖 target=http://dejavu.mercadolibre.com.ec:443 status-code=200 title="dejavu.mercadolibre.com.ec (1×1)" have-screenshot=true
+2025/03/09 19:59:36 INFO result 🤖 target=https://dejavu.mercadolibre.com.ec:443 status-code=200 title="dejavu.mercadolibre.com.ec (1×1)" have-screenshot=true
+2025/03/09 19:59:44 INFO result 🤖 target=http://celulares.mercadolibre.com.ec:80 status-code=200 title="Celulares y Smartphones | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:46 INFO result 🤖 target=https://celulares.mercadolibre.com.ec:443 status-code=200 title="Celulares y Smartphones | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:47 INFO result 🤖 target=http://celulares.mercadolibre.com.ec:443 status-code=200 title="Celulares y Smartphones | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 19:59:54 INFO result 🤖 target=http://elearning.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:00 INFO result 🤖 target=http://elearning.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:00:05 INFO result 🤖 target=https://elearning.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:00:05 INFO result 🤖 target=http://frontend.mercadolibre.com:80 status-code=403 title="403 Forbidden" have-screenshot=true
+2025/03/09 20:00:07 INFO result 🤖 target=http://frontend.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:12 INFO result 🤖 target=https://frontend.mercadolibre.com:443 status-code=404 title="403 Forbidden" have-screenshot=true
+2025/03/09 20:00:13 INFO result 🤖 target=http://developers.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:16 INFO result 🤖 target=http://departamento-suite.mercadolibre.com.ec:443 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:00:17 INFO result 🤖 target=http://developers.mercadolibre.com:80 status-code=200 title=Developers have-screenshot=true
+2025/03/09 20:00:22 INFO result 🤖 target=https://developers.mercadolibre.com:443 status-code=200 title=Developers have-screenshot=true
+2025/03/09 20:00:24 INFO result 🤖 target=http://developers-forum.mercadolibre.com:80 status-code=409 title="DNS resolution error | developers-forum.mercadolibre.com | Cloudflare" have-screenshot=true
+2025/03/09 20:00:24 INFO result 🤖 target=http://departamento-suite.mercadolibre.com.ec:80 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:00:27 INFO result 🤖 target=http://encuestas.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:34 INFO result 🤖 target=http://deal.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:00:35 INFO result 🤖 target=http://deal.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:37 INFO result 🤖 target=https://deal.mercadolibre.com:443 status-code=200 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:00:41 INFO result 🤖 target=http://feeds.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:41 INFO result 🤖 target=http://feeds.mercadolibre.com:80 status-code=403 title="403 Forbidden" have-screenshot=true
+2025/03/09 20:00:41 INFO result 🤖 target=https://departamento-suite.mercadolibre.com.ec:443 status-code=200 title="Inmuebles | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:00:42 INFO result 🤖 target=http://encuestas.mercadolibre.com:80 status-code=200 title="Alchemer | Online Survey Software & Tools" have-screenshot=true
+2025/03/09 20:00:44 INFO result 🤖 target=https://feeds.mercadolibre.com:443 status-code=403 title="403 Forbidden" have-screenshot=true
+2025/03/09 20:00:46 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ec:80 status-code=404 title=Error have-screenshot=true
+2025/03/09 20:00:47 INFO result 🤖 target=http://buyingflow.mercadolibre.com.ec:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 20:00:48 INFO result 🤖 target=https://buyingflow.mercadolibre.com.ec:443 status-code=404 title=Error have-screenshot=true
+2025/03/09 20:00:49 INFO result 🤖 target=https://encuestas.mercadolibre.com:443 status-code=200 title="Alchemer | Online Survey Software & Tools" have-screenshot=true
+2025/03/09 20:00:50 INFO result 🤖 target=http://global-selling.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:00:59 INFO result 🤖 target=http://global-selling.mercadolibre.com:80 status-code=200 title="Fill out your e-mail address to log in" have-screenshot=true
+2025/03/09 20:01:02 INFO result 🤖 target=https://global-selling.mercadolibre.com:443 status-code=200 title="Fill out your e-mail address to log in" have-screenshot=true
+2025/03/09 20:01:10 INFO result 🤖 target=http://gaia.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:01:14 INFO result 🤖 target=https://eshops.mercadolibre.com.ec:443 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 20:01:17 INFO result 🤖 target=http://hydra.mercadolibre.com:80 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:01:17 INFO result 🤖 target=http://eshops.mercadolibre.com.ec:443 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 20:01:20 INFO result 🤖 target=http://hydra.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:01:24 INFO result 🤖 target=https://hydra.mercadolibre.com:443 status-code=404 title="MercadoLibre Argentina - Parece que esta pÃ¡gina no existe" have-screenshot=true
+2025/03/09 20:01:26 INFO result 🤖 target=http://eshops.mercadolibre.com.ec:80 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 20:01:29 INFO result 🤖 target=http://gaia.mercadolibre.com:80 status-code=200 title="Sign in - Google Accounts" have-screenshot=true
+2025/03/09 20:01:50 INFO result 🤖 target=https://gaia.mercadolibre.com:443 status-code=200 title="Sign in - Google Accounts" have-screenshot=true
+2025/03/09 20:01:52 INFO result 🤖 target=http://domssl.mercadolibre.com.ec:80 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 20:01:54 INFO result 🤖 target=http://domssl.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:00 INFO result 🤖 target=http://ideas.mercadolibre.com:80 status-code=409 title="DNS resolution error | ideas.mercadolibre.com | Cloudflare" have-screenshot=true
+2025/03/09 20:02:00 INFO result 🤖 target=http://ideas.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:02:03 INFO result 🤖 target=http://fiesta-evento.mercadolibre.com.ec:443 status-code=200 title="Servicios | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:02:05 INFO result 🤖 target=http://fiesta-evento.mercadolibre.com.ec:80 status-code=200 title="Servicios | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:02:05 INFO result 🤖 target=https://fiesta-evento.mercadolibre.com.ec:443 status-code=200 title="Servicios | MercadoLibre.com.ec" have-screenshot=true
+2025/03/09 20:02:08 INFO result 🤖 target=http://hp.mercadolibre.com:80 status-code=200 title="" have-screenshot=true
+2025/03/09 20:02:08 INFO result 🤖 target=https://ideas.mercadolibre.com:443 status-code=409 title="DNS resolution error | ideas.mercadolibre.com | Cloudflare" have-screenshot=true
+2025/03/09 20:02:08 INFO result 🤖 target=http://hp.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:02:11 INFO result 🤖 target=https://hp.mercadolibre.com:443 status-code=200 title="" have-screenshot=true
+2025/03/09 20:02:11 INFO result 🤖 target=https://domssl.mercadolibre.com.ec:443 status-code=200 title="Mapa de Categorías y Secciones - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:31 INFO result 🤖 target=http://ayuda.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre Ecuador - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 20:02:31 INFO result 🤖 target=https://ayuda.mercadolibre.com.ec:443 status-code=200 title="Mercado Libre Ecuador - Envíos Gratis en el día" have-screenshot=true
+2025/03/09 20:02:32 INFO result 🤖 target=http://feedback.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:33 INFO result 🤖 target=http://ayuda.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:34 INFO result 🤖 target=http://feedback.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:38 INFO result 🤖 target=http://guia.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:39 INFO result 🤖 target=http://guia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:42 INFO result 🤖 target=http://fotografia.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:46 INFO result 🤖 target=https://guia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:46 INFO result 🤖 target=https://fotografia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:48 INFO result 🤖 target=http://fotografia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:02:48 INFO result 🤖 target=http://investor.mercadolibre.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/09 20:02:50 INFO result 🤖 target=https://feedback.mercadolibre.com.ec:443 status-code=200 title="Ingresa tu e-mail o teléfono para iniciar sesión" have-screenshot=true
+2025/03/09 20:02:58 INFO result 🤖 target=http://home.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:00 INFO result 🤖 target=http://home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:02 INFO result 🤖 target=https://home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:06 INFO result 🤖 target=http://it.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:09 INFO result 🤖 target=http://it.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:13 INFO result 🤖 target=https://it.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:15 INFO result 🤖 target=http://learning.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:16 INFO result 🤖 target=http://learning.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:22 INFO result 🤖 target=https://learning.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:25 INFO result 🤖 target=http://jobs.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:25 INFO result 🤖 target=http://jobs.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:29 INFO result 🤖 target=https://jobs.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:32 INFO result 🤖 target=http://coleccionables.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:33 INFO result 🤖 target=http://coleccionables.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:36 INFO result 🤖 target=http://matt.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:37 INFO result 🤖 target=https://coleccionables.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:38 INFO result 🤖 target=http://matt.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:40 INFO result 🤖 target=https://matt.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:41 INFO result 🤖 target=http://investor.mercadolibre.com:80 status-code=200 title="Mercado Libre | Investor Relations" have-screenshot=true
+2025/03/09 20:03:43 INFO result 🤖 target=http://electronica.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:44 INFO result 🤖 target=http://electronica.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:47 INFO result 🤖 target=http://learninghub-int.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:48 INFO result 🤖 target=http://learninghub-int.mercadolibre.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/09 20:03:48 INFO result 🤖 target=https://electronica.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:49 INFO result 🤖 target=https://investor.mercadolibre.com:443 status-code=200 title="Mercado Libre | Investor Relations" have-screenshot=false
+2025/03/09 20:03:50 INFO result 🤖 target=https://learninghub-int.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:51 INFO result 🤖 target=http://m.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:53 INFO result 🤖 target=http://m.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:53 INFO result 🤖 target=https://m.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:03:56 INFO result 🤖 target=http://inscripcion.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:57 INFO result 🤖 target=http://inscripcion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:03:59 INFO result 🤖 target=https://inscripcion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:00 INFO result 🤖 target=http://listado.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:00 INFO result 🤖 target=http://listado.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:03 INFO result 🤖 target=http://inmuebles-home.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:04 INFO result 🤖 target=https://listado.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:04 INFO result 🤖 target=http://inmuebles-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:07 INFO result 🤖 target=https://inmuebles-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:07 INFO result 🤖 target=http://inmuebles.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:09 INFO result 🤖 target=http://inmuebles.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:11 INFO result 🤖 target=https://inmuebles.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:11 INFO result 🤖 target=http://mercadolibre.com.co:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:13 INFO result 🤖 target=http://mercadolibre.com.co:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:14 INFO result 🤖 target=https://mercadolibre.com.co:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:16 INFO result 🤖 target=http://mercadoclics.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:16 INFO result 🤖 target=http://mercadoclics.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:19 INFO result 🤖 target=https://mercadoclics.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:19 INFO result 🤖 target=http://melidata.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:20 INFO result 🤖 target=http://melidata.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:21 INFO result 🤖 target=https://melidata.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:23 INFO result 🤖 target=http://mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:24 INFO result 🤖 target=http://mercadolibre.com:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:26 INFO result 🤖 target=https://mercadolibre.com:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:26 INFO result 🤖 target=http://mercadolibre.com.ar:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:28 INFO result 🤖 target=http://mercadolibre.com.ar:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:30 INFO result 🤖 target=https://mercadolibre.com.ar:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:31 INFO result 🤖 target=http://mercadolibre.com.bo:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:32 INFO result 🤖 target=http://mercadolibre.com.bo:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:33 INFO result 🤖 target=https://mercadolibre.com.bo:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:35 INFO result 🤖 target=http://mediations.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:36 INFO result 🤖 target=http://mediations.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:38 INFO result 🤖 target=https://mediations.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:39 INFO result 🤖 target=http://mercadolibre.com.mx:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:39 INFO result 🤖 target=http://mercadolibre.com.mx:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:42 INFO result 🤖 target=https://mercadolibre.com.mx:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:42 INFO result 🤖 target=http://mercadolibre.com.pe:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:43 INFO result 🤖 target=http://mercadolibre.com.pe:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:44 INFO result 🤖 target=http://mobile.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:46 INFO result 🤖 target=https://mercadolibre.com.pe:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:46 INFO result 🤖 target=http://mobile.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:49 INFO result 🤖 target=https://mobile.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:51 INFO result 🤖 target=http://mercadolibre.com.ni:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:51 INFO result 🤖 target=http://mercadolibre.com.ni:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:54 INFO result 🤖 target=https://mercadolibre.com.ni:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:54 INFO result 🤖 target=http://mercadolibre.com.uy:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:55 INFO result 🤖 target=http://mercadolibre.com.uy:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:57 INFO result 🤖 target=https://mercadolibre.com.uy:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:04:58 INFO result 🤖 target=http://mercadolibre.com.ve:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:04:58 INFO result 🤖 target=http://mercadolibre.com.ve:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:00 INFO result 🤖 target=https://mercadolibre.com.ve:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:02 INFO result 🤖 target=http://mercadolibre.com.gt:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:02 INFO result 🤖 target=http://mercadolibre.com.gt:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:05 INFO result 🤖 target=https://mercadolibre.com.gt:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:05 INFO result 🤖 target=http://mercadolibre.com.sv:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:07 INFO result 🤖 target=http://mercadolibre.com.sv:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:08 INFO result 🤖 target=https://mercadolibre.com.sv:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:11 INFO result 🤖 target=http://mercadolibre.com.hn:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:11 INFO result 🤖 target=http://mercadolibre.com.hn:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:13 INFO result 🤖 target=https://mercadolibre.com.hn:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:14 INFO result 🤖 target=http://myaccount.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:16 INFO result 🤖 target=http://myaccount.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:18 INFO result 🤖 target=http://mercadolibre.com.py:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:19 INFO result 🤖 target=https://myaccount.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:19 INFO result 🤖 target=http://mercadolibre.com.py:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:22 INFO result 🤖 target=https://mercadolibre.com.py:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:23 INFO result 🤖 target=http://mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:25 INFO result 🤖 target=https://mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:26 INFO result 🤖 target=http://computacion.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:28 INFO result 🤖 target=http://computacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:30 INFO result 🤖 target=https://computacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:32 INFO result 🤖 target=http://mercadolibre.com.pa:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:32 INFO result 🤖 target=http://mercadolibre.com.pa:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:34 INFO result 🤖 target=https://mercadolibre.com.pa:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:35 INFO result 🤖 target=http://careers-meli.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:36 INFO result 🤖 target=http://careers-meli.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:38 INFO result 🤖 target=https://careers-meli.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:39 INFO result 🤖 target=http://chat.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:40 INFO result 🤖 target=http://chat.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:41 INFO result 🤖 target=http://mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:44 INFO result 🤖 target=http://moto.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:44 INFO result 🤖 target=http://moto.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:46 INFO result 🤖 target=https://moto.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:47 INFO result 🤖 target=http://chat.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:47 INFO result 🤖 target=http://chat.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:51 INFO result 🤖 target=http://myml-applications.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:52 INFO result 🤖 target=https://chat.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:54 INFO result 🤖 target=http://myml-applications.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:05:54 INFO result 🤖 target=http://news.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:05:57 INFO result 🤖 target=https://news.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:03 INFO result 🤖 target=http://news.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:04 INFO result 🤖 target=http://m.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:09 INFO result 🤖 target=http://mldp.mercadolibre.com.ar:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:12 INFO result 🤖 target=http://mldp.mercadolibre.com.ar:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:13 INFO result 🤖 target=https://m.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:15 INFO result 🤖 target=https://mldp.mercadolibre.com.ar:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:17 INFO result 🤖 target=https://myml-applications.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:22 INFO result 🤖 target=https://navidad.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:22 INFO result 🤖 target=http://motos.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:24 INFO result 🤖 target=http://navidad.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:24 INFO result 🤖 target=http://motos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:30 INFO result 🤖 target=http://placements.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:30 INFO result 🤖 target=http://placements.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:32 INFO result 🤖 target=http://m.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:33 INFO result 🤖 target=https://placements.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:35 INFO result 🤖 target=http://pmstrk.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:37 INFO result 🤖 target=http://pmstrk.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:38 INFO result 🤖 target=https://pmstrk.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:38 INFO result 🤖 target=http://navidad.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:40 INFO result 🤖 target=http://pmstrk.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:40 INFO result 🤖 target=http://pmstrk.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:44 INFO result 🤖 target=https://pmstrk.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:44 INFO result 🤖 target=http://perfil.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:51 INFO result 🤖 target=http://perfil.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:52 INFO result 🤖 target=https://perfil.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:53 INFO result 🤖 target=http://mercadolibre.com.do:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:54 INFO result 🤖 target=https://mercadolibre.com.do:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:55 INFO result 🤖 target=https://motos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:55 INFO result 🤖 target=http://mercadolibre.com.do:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:06:56 INFO result 🤖 target=http://pppi.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:06:58 INFO result 🤖 target=http://pppi.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:00 INFO result 🤖 target=https://pppi.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:01 INFO result 🤖 target=http://partners.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:01 INFO result 🤖 target=http://partners.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:03 INFO result 🤖 target=https://partners.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:05 INFO result 🤖 target=http://profesional.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:05 INFO result 🤖 target=http://profesional.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:08 INFO result 🤖 target=http://mp3.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:08 INFO result 🤖 target=https://profesional.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:10 INFO result 🤖 target=http://mp3.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:12 INFO result 🤖 target=https://mp3.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:13 INFO result 🤖 target=http://prodeng.mercadolibre.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/09 20:07:15 INFO result 🤖 target=http://registration.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:17 INFO result 🤖 target=http://registration.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:18 INFO result 🤖 target=https://registration.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:20 INFO result 🤖 target=http://error.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:20 INFO result 🤖 target=http://error.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:21 INFO result 🤖 target=https://error.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:24 INFO result 🤖 target=http://ofertas.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:24 INFO result 🤖 target=http://ofertas.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:27 INFO result 🤖 target=https://ofertas.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:27 INFO result 🤖 target=http://questions.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:28 INFO result 🤖 target=http://questions.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:30 INFO result 🤖 target=http://publicidad.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:30 INFO result 🤖 target=https://questions.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:31 INFO result 🤖 target=http://publicidad.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:35 INFO result 🤖 target=https://publicidad.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:36 INFO result 🤖 target=http://reviews.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:36 INFO result 🤖 target=http://reviews.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:39 INFO result 🤖 target=http://reputacion.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:39 INFO result 🤖 target=https://reviews.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:42 INFO result 🤖 target=http://reputacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:42 INFO result 🤖 target=http://sellers.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:43 INFO result 🤖 target=https://reputacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:44 INFO result 🤖 target=http://sellers.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:45 INFO result 🤖 target=https://sellers.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:07:48 INFO result 🤖 target=http://servicios-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:49 INFO result 🤖 target=http://servicios-home.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:51 INFO result 🤖 target=https://servicios-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:56 INFO result 🤖 target=http://servicio.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:07:57 INFO result 🤖 target=http://servicio.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:00 INFO result 🤖 target=https://servicio.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:02 INFO result 🤖 target=http://sustentabilidad.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:03 INFO result 🤖 target=http://sustentabilidad.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:07 INFO result 🤖 target=http://survey.mercadolibre.com:80 status-code=200 title="Sign In" have-screenshot=true
+2025/03/09 20:08:07 INFO result 🤖 target=https://survey.mercadolibre.com:443 status-code=200 title="Sign In" have-screenshot=true
+2025/03/09 20:08:09 INFO result 🤖 target=https://sustentabilidad.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:10 INFO result 🤖 target=http://terreno.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:12 INFO result 🤖 target=http://terreno.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:15 INFO result 🤖 target=https://terreno.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:18 INFO result 🤖 target=http://reparacion-instalacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:18 INFO result 🤖 target=http://servicios.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:19 INFO result 🤖 target=https://reparacion-instalacion.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:19 INFO result 🤖 target=http://reparacion-instalacion.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:22 INFO result 🤖 target=http://servicios.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:22 INFO result 🤖 target=https://servicios.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:25 INFO result 🤖 target=http://telefonia.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:27 INFO result 🤖 target=https://telefonia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:28 INFO result 🤖 target=http://ux.mercadolibre.com:80 status-code=200 title="Mercado Libre UX" have-screenshot=true
+2025/03/09 20:08:30 INFO result 🤖 target=http://telefonia.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:32 INFO result 🤖 target=http://tienda.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:33 INFO result 🤖 target=https://ux.mercadolibre.com:443 status-code=200 title="Mercado Libre UX" have-screenshot=true
+2025/03/09 20:08:35 INFO result 🤖 target=http://tienda.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:36 INFO result 🤖 target=https://tienda.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:08:36 INFO result 🤖 target=http://url8202.mercadolibre.com:80 status-code=404 title="404 Not Found" have-screenshot=true
+2025/03/09 20:08:36 INFO result 🤖 target=http://url8202.mercadolibre.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/09 20:08:39 INFO result 🤖 target=https://url8202.mercadolibre.com:443 status-code=404 title="404 Not Found" have-screenshot=true
+2025/03/09 20:08:41 INFO result 🤖 target=http://tendencias.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:43 INFO result 🤖 target=http://tendencias.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:43 INFO result 🤖 target=https://tendencias.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:45 INFO result 🤖 target=http://vender.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:46 INFO result 🤖 target=http://vender.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:48 INFO result 🤖 target=http://ucs.orion-prd.mercadolibre.com:80 status-code=404 title="" have-screenshot=true
+2025/03/09 20:08:48 INFO result 🤖 target=http://ucs.orion-prd.mercadolibre.com:443 status-code=400 title="400 The plain HTTP request was sent to HTTPS port" have-screenshot=true
+2025/03/09 20:08:49 INFO result 🤖 target=https://vender.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:51 INFO result 🤖 target=https://ucs.orion-prd.mercadolibre.com:443 status-code=404 title="" have-screenshot=true
+2025/03/09 20:08:52 INFO result 🤖 target=http://vehiculo.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:54 INFO result 🤖 target=https://vehiculo.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:54 INFO result 🤖 target=http://vehiculo.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:56 INFO result 🤖 target=http://video.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:08:58 INFO result 🤖 target=http://video.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:00 INFO result 🤖 target=http://vehiculos-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:01 INFO result 🤖 target=https://video.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:01 INFO result 🤖 target=http://vehiculos-home.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:04 INFO result 🤖 target=https://vehiculos-home.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:04 INFO result 🤖 target=http://tienda.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:06 INFO result 🤖 target=http://tienda.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:08 INFO result 🤖 target=https://tienda.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:09 INFO result 🤖 target=http://vendedores.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:09 INFO result 🤖 target=http://vendedores.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:10 INFO result 🤖 target=https://vendedores.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:11 INFO result 🤖 target=http://vender.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:11 INFO result 🤖 target=http://vender.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:15 INFO result 🤖 target=https://vender.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:16 INFO result 🤖 target=http://syimobile.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:17 INFO result 🤖 target=http://syimobile.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:19 INFO result 🤖 target=https://syimobile.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:20 INFO result 🤖 target=http://vip.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:22 INFO result 🤖 target=http://vip.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:24 INFO result 🤖 target=http://wiki.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:25 INFO result 🤖 target=http://wiki.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:26 INFO result 🤖 target=https://vip.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:26 INFO result 🤖 target=https://wiki.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:30 INFO result 🤖 target=http://videojuegos.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:31 INFO result 🤖 target=http://videojuegos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:34 INFO result 🤖 target=https://videojuegos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:34 INFO result 🤖 target=http://www.mercadolibre.com:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:37 INFO result 🤖 target=https://www.mercadolibre.com:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:37 INFO result 🤖 target=http://wms.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:38 INFO result 🤖 target=http://wms.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:40 INFO result 🤖 target=http://www.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:40 INFO result 🤖 target=https://wms.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:43 INFO result 🤖 target=http://www.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:44 INFO result 🤖 target=http://www.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:45 INFO result 🤖 target=https://www.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:46 INFO result 🤖 target=http://www2.mercadolibre.com:443 status-code=400 title=Error have-screenshot=true
+2025/03/09 20:09:50 INFO result 🤖 target=http://vehiculos.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:50 INFO result 🤖 target=http://vehiculos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:52 INFO result 🤖 target=http://sellimg.mercadolibre.com:80 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:53 INFO result 🤖 target=http://sellimg.mercadolibre.com:443 status-code=400 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:53 INFO result 🤖 target=https://vehiculos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:55 INFO result 🤖 target=https://sellimg.mercadolibre.com:443 status-code=403 title="ERROR: The request could not be satisfied" have-screenshot=true
+2025/03/09 20:09:59 INFO result 🤖 target=http://social.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:09:59 INFO result 🤖 target=https://social.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:01 INFO result 🤖 target=http://autos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:02 INFO result 🤖 target=http://social.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:02 INFO result 🤖 target=http://autos.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:05 INFO result 🤖 target=http://departamentos.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:05 INFO result 🤖 target=https://autos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:08 INFO result 🤖 target=https://departamentos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:09 INFO result 🤖 target=http://inmueble.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:10 INFO result 🤖 target=http://departamentos.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:11 INFO result 🤖 target=http://inmueble.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:12 INFO result 🤖 target=https://inmueble.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:14 INFO result 🤖 target=http://list.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:17 INFO result 🤖 target=http://resell.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:18 INFO result 🤖 target=https://list.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:18 INFO result 🤖 target=http://resell.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:20 INFO result 🤖 target=http://list.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:23 INFO result 🤖 target=http://syi.mercadolibre.com.ec:80 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:23 INFO result 🤖 target=http://syi.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:25 INFO result 🤖 target=https://syi.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
+2025/03/09 20:10:25 INFO result 🤖 target=https://resell.mercadolibre.com.ec:443 status-code=403 title="Error! - Mercado Libre" have-screenshot=true
