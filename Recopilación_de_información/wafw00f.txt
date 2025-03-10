@@ -1,0 +1,479 @@
+
+                 ?              ,.   (   .      )        .      "
+         __        ??          ("     )  )'     ,'        )  . (`     '`
+    (___()'`;   ???          .; )  ' (( (" )    ;(,     ((  (  ;)  "  )")
+    /,___ /`                 _"., ,._'_.,)_(..,( . )_  _' )_') (. _..( ' )
+    \\   \\                 |____|____|____|____|____|____|____|____|____|
+
+                                ~ WAFW00F : v2.3.1 ~
+                    ~ Sniffing Web Application Firewalls since 2014 ~
+
+[*] Checking https://api.mercadolibre.com
+[+] The site [1;94mhttps://api.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.ar
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.ar[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://analytics.mercadolibre.com
+[+] The site [1;94mhttps://analytics.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://casa-villa.mercadolibre.com.ec
+[+] The site [1;94mhttps://casa-villa.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://classifieds-mobile.mercadolibre.com
+[+] The site [1;94mhttps://classifieds-mobile.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://data.mercadolibre.com
+[+] The site [1;94mhttps://data.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://auth.mercadolibre.com.ec
+[+] The site [1;94mhttps://auth.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://cbt.mercadolibre.com
+[+] The site [1;94mhttps://cbt.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://auth-identity.mercadolibre.com.ec
+[+] The site [1;94mhttps://auth-identity.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.mx
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.mx[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://applications.mercadolibre.com
+[+] The site [1;94mhttps://applications.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.ve
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.ve[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://csp.mercadolibre.com
+[+] The site [1;94mhttps://csp.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.pa
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.pa[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://answers.mercadolibre.com
+[+] The site [1;94mhttps://answers.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://advertising.mercadolibre.com.ec
+[+] The site [1;94mhttps://advertising.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://camioneta.mercadolibre.com.ec
+[+] The site [1;94mhttps://camioneta.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.co
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.co[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://aragorn.mercadolibre.com
+[*] Checking https://auto.mercadolibre.com.ec
+[+] The site [1;94mhttps://auto.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://auth.mercadolibre.com
+[+] The site [1;94mhttps://auth.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.pe
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.pe[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.uy
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.uy[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.do
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.do[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://arte-antiguedades.mercadolibre.com.ec
+[+] The site [1;94mhttps://arte-antiguedades.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://analytics.mercadolibre.com.ec
+[+] The site [1;94mhttps://analytics.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://deals.mercadolibre.com
+[+] The site [1;94mhttps://deals.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://applications.mercadolibre.com.ec
+[+] The site [1;94mhttps://applications.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://compra.mercadolibre.com.ec
+[+] The site [1;94mhttps://compra.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://articulo.mercadolibre.com.ec
+[+] The site [1;94mhttps://articulo.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://casas.mercadolibre.com.ec
+[+] The site [1;94mhttps://casas.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://apps.mercadolibre.com.ec
+[+] The site [1;94mhttps://apps.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://addresses.mercadolibre.com.ec
+[+] The site [1;94mhttps://addresses.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://events.mercadolibre.com
+[+] The site [1;94mhttps://events.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://dejavu.mercadolibre.com
+[+] The site [1;94mhttps://dejavu.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://celulares.mercadolibre.com.ec
+[+] The site [1;94mhttps://celulares.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://dejavu.mercadolibre.com.ec
+[+] The site [1;94mhttps://dejavu.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://departamento-suite.mercadolibre.com.ec
+[+] The site [1;94mhttps://departamento-suite.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://elearning.mercadolibre.com
+[+] The site [1;94mhttps://elearning.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://frontend.mercadolibre.com
+[+] The site [1;94mhttps://frontend.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://developers.mercadolibre.com
+[+] The site [1;94mhttps://developers.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://developers-forum.mercadolibre.com
+[*] Checking https://encuestas.mercadolibre.com
+[+] The site [1;94mhttps://encuestas.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://deal.mercadolibre.com
+[+] The site [1;94mhttps://deal.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://feeds.mercadolibre.com
+[+] The site [1;94mhttps://feeds.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://buyingflow.mercadolibre.com.ec
+[+] The site [1;94mhttps://buyingflow.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://global-selling.mercadolibre.com
+[+] The site [1;94mhttps://global-selling.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://eshops.mercadolibre.com.ec
+[+] The site [1;94mhttps://eshops.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://gaia.mercadolibre.com
+[+] The site [1;94mhttps://gaia.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://hydra.mercadolibre.com
+[+] The site [1;94mhttps://hydra.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://fiesta-evento.mercadolibre.com.ec
+[+] The site [1;94mhttps://fiesta-evento.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://domssl.mercadolibre.com.ec
+[+] The site [1;94mhttps://domssl.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ideas.mercadolibre.com
+[+] The site [1;94mhttps://ideas.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://hp.mercadolibre.com
+[+] The site [1;94mhttps://hp.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ayuda.mercadolibre.com.ec
+[+] The site [1;94mhttps://ayuda.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://feedback.mercadolibre.com.ec
+[+] The site [1;94mhttps://feedback.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://guia.mercadolibre.com.ec
+[+] The site [1;94mhttps://guia.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://fotografia.mercadolibre.com.ec
+[+] The site [1;94mhttps://fotografia.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://investor.mercadolibre.com
+[+] The site [1;94mhttps://investor.mercadolibre.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://home.mercadolibre.com.ec
+[+] The site [1;94mhttps://home.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://it.mercadolibre.com
+[+] The site [1;94mhttps://it.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://learning.mercadolibre.com
+[+] The site [1;94mhttps://learning.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://jobs.mercadolibre.com
+[+] The site [1;94mhttps://jobs.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://coleccionables.mercadolibre.com.ec
+[+] The site [1;94mhttps://coleccionables.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://matt.mercadolibre.com
+[+] The site [1;94mhttps://matt.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://electronica.mercadolibre.com.ec
+[+] The site [1;94mhttps://electronica.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://learninghub-int.mercadolibre.com
+[+] The site [1;94mhttps://learninghub-int.mercadolibre.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://m.mercadolibre.com
+[+] The site [1;94mhttps://m.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://inscripcion.mercadolibre.com.ec
+[+] The site [1;94mhttps://inscripcion.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://listado.mercadolibre.com.ec
+[+] The site [1;94mhttps://listado.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://inmuebles-home.mercadolibre.com.ec
+[+] The site [1;94mhttps://inmuebles-home.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://inmuebles.mercadolibre.com.ec
+[+] The site [1;94mhttps://inmuebles.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.co
+[+] The site [1;94mhttps://mercadolibre.com.co[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadoclics.mercadolibre.com.ec
+[+] The site [1;94mhttps://mercadoclics.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://melidata.mercadolibre.com
+[+] The site [1;94mhttps://melidata.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com
+[+] The site [1;94mhttps://mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.ar
+[+] The site [1;94mhttps://mercadolibre.com.ar[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.bo
+[+] The site [1;94mhttps://mercadolibre.com.bo[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mediations.mercadolibre.com.ec
+[+] The site [1;94mhttps://mediations.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.mx
+[+] The site [1;94mhttps://mercadolibre.com.mx[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.pe
+[+] The site [1;94mhttps://mercadolibre.com.pe[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mobile.mercadolibre.com
+[+] The site [1;94mhttps://mobile.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.ni
+[+] The site [1;94mhttps://mercadolibre.com.ni[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.uy
+[+] The site [1;94mhttps://mercadolibre.com.uy[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.ve
+[+] The site [1;94mhttps://mercadolibre.com.ve[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.gt
+[+] The site [1;94mhttps://mercadolibre.com.gt[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.sv
+[+] The site [1;94mhttps://mercadolibre.com.sv[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.hn
+[+] The site [1;94mhttps://mercadolibre.com.hn[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myaccount.mercadolibre.com.ec
+[+] The site [1;94mhttps://myaccount.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.py
+[+] The site [1;94mhttps://mercadolibre.com.py[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.ec
+[+] The site [1;94mhttps://mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://computacion.mercadolibre.com.ec
+[+] The site [1;94mhttps://computacion.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.pa
+[+] The site [1;94mhttps://mercadolibre.com.pa[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://careers-meli.mercadolibre.com
+[+] The site [1;94mhttps://careers-meli.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://chat.mercadolibre.com
+[+] The site [1;94mhttps://chat.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://moto.mercadolibre.com.ec
+[+] The site [1;94mhttps://moto.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://chat.mercadolibre.com.ec
+[+] The site [1;94mhttps://chat.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myml-applications.mercadolibre.com.ec
+[+] The site [1;94mhttps://myml-applications.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://news.mercadolibre.com
+[+] The site [1;94mhttps://news.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://m.mercadolibre.com.ec
+[+] The site [1;94mhttps://m.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mldp.mercadolibre.com.ar
+[+] The site [1;94mhttps://mldp.mercadolibre.com.ar[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://navidad.mercadolibre.com.ec
+[+] The site [1;94mhttps://navidad.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://motos.mercadolibre.com.ec
+[+] The site [1;94mhttps://motos.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://placements.mercadolibre.com
+[+] The site [1;94mhttps://placements.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://pmstrk.mercadolibre.com
+[+] The site [1;94mhttps://pmstrk.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://pmstrk.mercadolibre.com.ec
+[+] The site [1;94mhttps://pmstrk.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://perfil.mercadolibre.com.ec
+[+] The site [1;94mhttps://perfil.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mercadolibre.com.do
+[+] The site [1;94mhttps://mercadolibre.com.do[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://pppi.mercadolibre.com
+[+] The site [1;94mhttps://pppi.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://partners.mercadolibre.com
+[+] The site [1;94mhttps://partners.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://profesional.mercadolibre.com.ec
+[+] The site [1;94mhttps://profesional.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mp3.mercadolibre.com.ec
+[+] The site [1;94mhttps://mp3.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://prodeng.mercadolibre.com
+[+] The site [1;94mhttps://prodeng.mercadolibre.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://registration.mercadolibre.com.ec
+[+] The site [1;94mhttps://registration.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://error.mercadolibre.com
+[+] The site [1;94mhttps://error.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ofertas.mercadolibre.com.ec
+[+] The site [1;94mhttps://ofertas.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://questions.mercadolibre.com.ec
+[+] The site [1;94mhttps://questions.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://publicidad.mercadolibre.com.ec
+[+] The site [1;94mhttps://publicidad.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://reviews.mercadolibre.com.ec
+[+] The site [1;94mhttps://reviews.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://reputacion.mercadolibre.com.ec
+[+] The site [1;94mhttps://reputacion.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sellers.mercadolibre.com
+[+] The site [1;94mhttps://sellers.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://servicios-home.mercadolibre.com.ec
+[+] The site [1;94mhttps://servicios-home.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://survey.mercadolibre.com
+[+] The site [1;94mhttps://survey.mercadolibre.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://servicio.mercadolibre.com.ec
+[+] The site [1;94mhttps://servicio.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sustentabilidad.mercadolibre.com
+[+] The site [1;94mhttps://sustentabilidad.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://terreno.mercadolibre.com.ec
+[+] The site [1;94mhttps://terreno.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://reparacion-instalacion.mercadolibre.com.ec
+[+] The site [1;94mhttps://reparacion-instalacion.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://servicios.mercadolibre.com.ec
+[+] The site [1;94mhttps://servicios.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://telefonia.mercadolibre.com.ec
+[+] The site [1;94mhttps://telefonia.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ux.mercadolibre.com
+[+] The site [1;94mhttps://ux.mercadolibre.com[0m is behind [1;96mFastly (Fastly CDN)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://tienda.mercadolibre.com
+[+] The site [1;94mhttps://tienda.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://url8202.mercadolibre.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://tendencias.mercadolibre.com.ec
+[+] The site [1;94mhttps://tendencias.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vender.mercadolibre.com.ec
+[+] The site [1;94mhttps://vender.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ucs.orion-prd.mercadolibre.com
+[+] The site [1;94mhttps://ucs.orion-prd.mercadolibre.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vehiculo.mercadolibre.com.ec
+[+] The site [1;94mhttps://vehiculo.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://video.mercadolibre.com.ec
+[+] The site [1;94mhttps://video.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vehiculos-home.mercadolibre.com.ec
+[+] The site [1;94mhttps://vehiculos-home.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://tienda.mercadolibre.com.ec
+[+] The site [1;94mhttps://tienda.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vendedores.mercadolibre.com
+[+] The site [1;94mhttps://vendedores.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vender.mercadolibre.com
+[+] The site [1;94mhttps://vender.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://syimobile.mercadolibre.com.ec
+[+] The site [1;94mhttps://syimobile.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vip.mercadolibre.com.ec
+[+] The site [1;94mhttps://vip.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://wiki.mercadolibre.com
+[+] The site [1;94mhttps://wiki.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://videojuegos.mercadolibre.com.ec
+[+] The site [1;94mhttps://videojuegos.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://www.mercadolibre.com
+[+] The site [1;94mhttps://www.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://wms.mercadolibre.com
+[+] The site [1;94mhttps://wms.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://www.mercadolibre.com.ec
+[+] The site [1;94mhttps://www.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://www2.mercadolibre.com
+[*] Checking https://vehiculos.mercadolibre.com.ec
+[+] The site [1;94mhttps://vehiculos.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sellimg.mercadolibre.com
+[+] The site [1;94mhttps://sellimg.mercadolibre.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://social.mercadolibre.com.ec
+[+] The site [1;94mhttps://social.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://autos.mercadolibre.com.ec
+[+] The site [1;94mhttps://autos.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://departamentos.mercadolibre.com.ec
+[+] The site [1;94mhttps://departamentos.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://inmueble.mercadolibre.com.ec
+[+] The site [1;94mhttps://inmueble.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://list.mercadolibre.com.ec
+[+] The site [1;94mhttps://list.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://resell.mercadolibre.com.ec
+[+] The site [1;94mhttps://resell.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://syi.mercadolibre.com.ec
+[+] The site [1;94mhttps://syi.mercadolibre.com.ec[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
