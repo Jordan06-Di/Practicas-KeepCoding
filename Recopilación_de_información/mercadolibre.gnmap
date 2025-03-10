@@ -1,0 +1,5 @@
+# Nmap 7.95 scan initiated Sun Mar  9 20:05:30 2025 as: /usr/lib/nmap/nmap --privileged -sT -p- -A -vvv -oA mercadolibre 190.157.8.101
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 190.157.8.101 (triara-1-cache-res.claro.net.co)	Status: Up
+Host: 190.157.8.101 (triara-1-cache-res.claro.net.co)	Ports: 53/open/tcp//domain//Unbound/	Ignored State: filtered (65534)	Seq Index: 261	IP ID Seq: Randomized
+# Nmap done at Sun Mar  9 20:31:05 2025 -- 1 IP address (1 host up) scanned in 1537.10 seconds

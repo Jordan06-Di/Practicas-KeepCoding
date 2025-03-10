@@ -1,0 +1,44 @@
+# Nmap 7.95 scan initiated Sun Mar  9 20:05:30 2025 as: /usr/lib/nmap/nmap --privileged -sT -p- -A -vvv -oA mercadolibre 190.157.8.101
+Increasing send delay for 190.157.8.101 from 0 to 5 due to 11 out of 21 dropped probes since last increase.
+Increasing send delay for 190.157.8.101 from 5 to 10 due to 11 out of 28 dropped probes since last increase.
+Nmap scan report for triara-1-cache-res.claro.net.co (190.157.8.101)
+Host is up, received echo-reply ttl 249 (0.016s latency).
+Scanned at 2025-03-09 20:05:43 EDT for 1522s
+Not shown: 65534 filtered tcp ports (no-response)
+PORT   STATE SERVICE REASON  VERSION
+53/tcp open  domain  syn-ack Unbound
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+TCP/IP fingerprint:
+SCAN(V=7.95%E=4%D=3/9%OT=53%CT=%CU=%PV=N%DS=7%DC=T%G=N%TM=67CE32C9%P=x86_64-pc-linux-gnu)
+SEQ(SP=105%GCD=1%ISR=109%TI=RD%II=RI%TS=10)
+SEQ(SP=107%GCD=1%ISR=109%TI=RD%II=RI%TS=C)
+OPS(O1=M5B4NW0ST11%O2=M5B4NW0ST11%O3=M5B4NW0NNT11%O4=M5B4NW0ST11%O5=M5B4NW0ST11%O6=M5B4ST11)
+WIN(W1=3908%W2=36B0%W3=1900%W4=14F0%W5=14F0%W6=A5A)
+ECN(R=Y%DF=Y%TG=FF%W=3908%O=M5B4NW0SLL%CC=Y%Q=)
+T1(R=Y%DF=Y%TG=FF%S=O%A=S+%F=AS%RD=0%Q=)
+T2(R=N)
+T3(R=N)
+T4(R=N)
+U1(R=N)
+IE(R=Y%DFI=Y%TG=FF%CD=S)
+
+Uptime guess: 0.306 days (since Sun Mar  9 13:10:26 2025)
+Network Distance: 7 hops
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: Randomized
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   0.32 ms  192.168.0.1
+2   10.92 ms 100.116.236.1
+3   22.49 ms 172.31.251.246
+4   13.48 ms 100.65.53.1
+5   13.84 ms 100.65.53.2
+6   13.85 ms dynamic-ip-1868612665.cable.net.co (186.86.126.65)
+7   12.80 ms triara-1-cache-res.claro.net.co (190.157.8.101)
+
+Read data files from: /usr/share/nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Mar  9 20:31:05 2025 -- 1 IP address (1 host up) scanned in 1537.10 seconds
