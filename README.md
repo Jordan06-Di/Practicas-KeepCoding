@@ -12,7 +12,7 @@ Este repositorio está organizado por carpetas temáticas. Cada carpeta contiene
 - 🔐 **Criptografía** – Resolución de retos y ejercicios prácticos sobre criptografía.
 - 🧩 **DFIR** – Respuesta ante incidentes y análisis forense digital.
 - 🧠 **Machine_Learning** – Aplicaciones de machine learning en el contexto de la ciberseguridad.
-- 🧱 **BlueTeam** – Tareas orientadas a la defensa de infraestructuras y monitorización.
+- 🧱 **BlueTeam** – Tareas orientadas a la defensa de infraestructuras, monitorización y arquitectura de redes.
 - 🕵️ **Pentesting** – Prácticas de reconocimiento, escaneo, explotación y post-explotación.
 - 🌐 **Recopilación_de_información** – Técnicas OSINT y enumeración de objetivos.
 - 🚀 **Intro-Ciberseguridad** – Conceptos fundamentales y primeros pasos en el mundo de la ciberseguridad.
@@ -28,7 +28,6 @@ Para ejecutar o comprender algunas de las prácticas, puede ser útil contar con
 - Wireshark, Burp Suite, Nmap 🌐
 - Python, Bash, PowerShell ⚙️
 
-*(Actualiza esta sección según tus necesidades)*
 
 ---
 
