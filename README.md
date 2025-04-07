@@ -66,12 +66,6 @@ Este repositorio está abierto a la comunidad. Si deseas contribuir:
 
 ---
 
-## 📜 Licencia
-
-Este repositorio se distribuye bajo la licencia [MIT License]. Consulta el archivo `LICENSE` para más detalles.
-
----
-
 Gracias por visitar este repositorio 🙌  
 *Espero que te sea útil para aprender, practicar y mejorar tus habilidades en ciberseguridad.*
 
