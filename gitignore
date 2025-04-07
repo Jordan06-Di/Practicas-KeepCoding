@@ -1,0 +1,34 @@
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Archivos de configuración personal
+.vscode/
+*.swp
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos comprimidos o binarios
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.out
+
+# Otros posibles temporales
+*.bak
+*.tmp
