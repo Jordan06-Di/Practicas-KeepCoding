@@ -28,7 +28,6 @@ Para ejecutar o comprender algunas de las prácticas, puede ser útil contar con
 - Wireshark, Burp Suite, Nmap 🌐
 - Python, Bash, PowerShell ⚙️
 
-*(Actualiza esta sección según tus necesidades)*
 
 ---
 
