@@ -9,13 +9,13 @@ Bienvenido a mi repositorio de prácticas del Bootcamp de Ciberseguridad en Keep
 Este repositorio está organizado por carpetas temáticas. Cada carpeta contiene una o varias prácticas relacionadas con ese ámbito específico:
 
 - 🦠 **Análisis_de_Malware** – Ejercicios sobre identificación y análisis de malware.
+- 🧱 **BlueTeam** – Tareas orientadas a la defensa de infraestructuras, monitorización y arquitectura de redes.
 - 🔐 **Criptografía** – Resolución de retos y ejercicios prácticos sobre criptografía.
 - 🧩 **DFIR** – Respuesta ante incidentes y análisis forense digital.
+- 🚀 **Intro-Ciberseguridad** – Conceptos fundamentales y primeros pasos en el mundo de la ciberseguridad.
 - 🧠 **Machine_Learning** – Aplicaciones de machine learning en el contexto de la ciberseguridad.
-- 🧱 **BlueTeam** – Tareas orientadas a la defensa de infraestructuras, monitorización y arquitectura de redes.
 - 🕵️ **Pentesting** – Prácticas de reconocimiento, escaneo, explotación y post-explotación.
 - 🌐 **Recopilación_de_información** – Técnicas OSINT y enumeración de objetivos.
-- 🚀 **Intro-Ciberseguridad** – Conceptos fundamentales y primeros pasos en el mundo de la ciberseguridad.
 - 💣 **RedTeam** – Simulación de ataques reales mediante técnicas ofensivas: reconocimiento, explotación, post-explotación, persistencia y evasión.
 
 ---
