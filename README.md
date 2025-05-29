@@ -16,6 +16,7 @@ Este repositorio está organizado por carpetas temáticas. Cada carpeta contiene
 - 🕵️ **Pentesting** – Prácticas de reconocimiento, escaneo, explotación y post-explotación.
 - 🌐 **Recopilación_de_información** – Técnicas OSINT y enumeración de objetivos.
 - 🚀 **Intro-Ciberseguridad** – Conceptos fundamentales y primeros pasos en el mundo de la ciberseguridad.
+- 💣 **RedTeam** – Simulación de ataques reales mediante técnicas ofensivas: reconocimiento, explotación, post-explotación, persistencia y evasión.
 
 ---
 
