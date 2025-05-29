@@ -8,7 +8,7 @@ Bienvenido a mi repositorio de prácticas del Bootcamp de Ciberseguridad en Keep
 
 Este repositorio está organizado por carpetas temáticas. Cada carpeta contiene una o varias prácticas relacionadas con ese ámbito específico:
 
-- 🦠 **Análisis_de_Malware** – Ejercicios sobre identificación y análisis de malware.
+- 🦠 **Análisis_de_Malware** – Ejercicios sobre identificación, análisis de malware y script de reglas yara.
 - 🧱 **BlueTeam** – Tareas orientadas a la defensa de infraestructuras, monitorización y arquitectura de redes.
 - 🔐 **Criptografía** – Resolución de retos y ejercicios prácticos sobre criptografía.
 - 🧩 **DFIR** – Respuesta ante incidentes y análisis forense digital.
